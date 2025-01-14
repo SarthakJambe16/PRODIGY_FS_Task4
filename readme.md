@@ -1,3 +1,7 @@
+### Task 4
+![Task4](https://github.com/SarthakJambe16/PRODIGY_FS_Task4/blob/main/Task4.jpg)
+
+## Prodigy Infotech Intership Task 4 
 # WebSocket Chat Application
 
 ## Overview
@@ -26,8 +30,8 @@ To run this WebSocket chat application locally, follow these steps:
 2. **Run the WebSocket Client**:
    - Once connected to the server, you can start sending messages. Messages will appear in real-time.
 
-### Example Screenshot
-![Chat Application Screenshot]()
+### Task 4
+![Task4](https://github.com/SarthakJambe16/PRODIGY_FS_Task4/blob/main/Task4.jpg)
 
 ## License
 This project is licensed under the MIT License.
